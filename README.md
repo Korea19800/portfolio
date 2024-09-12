@@ -1,8 +1,8 @@
-# Curios Engineer
+# Curious Engineer
 
 ### Work Experience
 
-MLOps Engineer @ SK Telecom
+Engineer @ SK Telecom
  - big impact project 1
  - project2
 
@@ -24,7 +24,6 @@ MLOps Engineer @ SK Telecom
 •	Skills: Java, Spring, Springboot, MySQL, Unit Test, Junit5,, Hibernate, JDBC, git
 
 **Republic of Korea Airforce, Korea Airforce Academy, Cheongju, South Korea | 07/2020 – 04/2022
-![image](https://github.com/user-attachments/assets/23cde468-6e72-433d-b2fc-fa8b090bbf19)
 
 ### Projects
 
@@ -40,7 +39,6 @@ MLOps Engineer @ SK Telecom
 **WordMafia, a simple Android game app – https://play.google.com/store/apps/details?id=com.kj.wordmafia 
 •	Individual project. Applied MVC pattern and Singleton pattern to the architecture.
 •	Technologies and Skills: Java (Android Studio), SQLite, XML, Git, Database design
-![image](https://github.com/user-attachments/assets/248b05fa-735f-4af2-9d10-e999ecf0e576)
 
 
 ### Education
