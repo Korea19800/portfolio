@@ -1,27 +1,27 @@
 # Curious Engineer
 
-### Work Experience
+## Work Experience
 
 **MLOps Engineer Intern @ SK Telecom** Seoul, South Korea 06/2024 – 08/2024
 - Trained 7B parameter LLM model using medical data.
 - Test Coverage 75% achieved
 - Deployed LLM model using docker and Azure. 
-- **Skills: Azure, Docker, FastAPI, Pytorch, Unit Test, Git**
+- **Skills**: Azure, Docker, FastAPI, Pytorch, Unit Test, Git
 
 **Software Engineer Intern @ Karrot** Seoul, South Korea 05/2023 – 08/2023
 - Built interlocking servers of company product by using Springboot and JPA.
 - Deployed server with k8s, using helm chart and managed servers with CI/CD pipeline.
 - Test Coverage 80% achieved, increased code quality with sonarqube.
-- Skills: Java, Spring, Springboot, MySQL,Unit Test, Junit5, Jenkins, K8S, Nginx, ELK stack
+- **Skills**: Java, Spring, Springboot, MySQL,Unit Test, Junit5, Jenkins, K8S, Nginx, ELK stack
 
 **Software Engineer Intern @ Coupang** Seoul, South Korea 05/2022 – 07/2022
 - Successfully completed the project by going through the software development process; code analysis -> design document -> Implementation & test codes (80% coverage) -> deploy & test on lower environments (development, QA)
 - Worked with Hibernate and JDBC, mapping object-oriented domain model to a relational database.
-- Skills: Java, Spring, Springboot, MySQL, Unit Test, Junit5,, Hibernate, JDBC, git
+- **Skills**: Java, Spring, Springboot, MySQL, Unit Test, Junit5,, Hibernate, JDBC, git
 
 **Republic of Korea Airforce @ Korea Airforce Academy** Cheongju, South Korea 07/2020 – 04/2022
 
-### Projects
+## Projects
 
 **Toy Story: Imagination in your hand**
 - A flutter application helps children to convert their drawing or speech into 3d model. Children can also change 3d model to a real toy by printing a 3d model file using a 3d printer.
@@ -37,7 +37,7 @@
 - **Technologies and Skills**: Java (Android Studio), SQLite, XML, Git, Database design
 
 
-### Education
+## Education
 - **Brigham Young University**, 09/2023 – 04/2025 	GPA: 3.95 / 4.00 cumulative 	Major: Computer Science
 
 - **DePauw University**, 08/2022 – 05/2023			    GPA: 4.00 / 4.00 cumulative	Major: Computer Science
