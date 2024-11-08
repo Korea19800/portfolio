@@ -1,4 +1,11 @@
-# Curious Engineer
+# Curious Engineer Who Wants to learn new skills
+
+## Education
+- **Brigham Young University**, 09/2023 – 04/2025 	GPA: 3.95 / 4.00 cumulative 	Major: Computer Science
+
+- **DePauw University**, 08/2022 – 05/2023			    GPA: 4.00 / 4.00 cumulative	Major: Computer Science
+
+- **Korea University**, 03/2018 – 06/2020			      GPA: 4.19 / 4.50 cumulative	Major: History
 
 ## Work Experience
 
@@ -35,12 +42,4 @@
 **WordMafia** – https://play.google.com/store/apps/details?id=com.kj.wordmafia 
 - A simple Android game app helps users play Mafia Game(liar game) offline. Individual project. Applied MVC pattern and Singleton pattern to the architecture.
 - **Technologies and Skills**: Java (Android Studio), SQLite, XML, Git, Database design
-
-
-## Education
-- **Brigham Young University**, 09/2023 – 04/2025 	GPA: 3.95 / 4.00 cumulative 	Major: Computer Science
-
-- **DePauw University**, 08/2022 – 05/2023			    GPA: 4.00 / 4.00 cumulative	Major: Computer Science
-
-- **Korea University**, 03/2018 – 06/2020			      GPA: 4.19 / 4.50 cumulative	Major: History
 
