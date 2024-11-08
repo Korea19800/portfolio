@@ -34,10 +34,13 @@
 - A flutter application helps children to convert their drawing or speech into 3d model. Children can also change 3d model to a real toy by printing a 3d model file using a 3d printer.
 - Children’s Speech or Drawing -> STT or Image-to-Text -> Generate Image using Text -> LRM(Large Reconstruction Model) to convert 2d image(.png) to 3d model(.obj, .stl) -> 3d model or real toy(3d printer)
 - **Technology and Skills** : Flutter, FastAPI, MySQL, Amazon S3 EC2, Docker, TripoSR, Dall-E, Blender
+- ![image](https://github.com/user-attachments/assets/8a6d7fa7-039b-411e-ad38-7735dc5a7494)
+
 
 **StepStone**
 - Team project. Website that connects developers with underprivileged people. It is a website where developers can donate their talent to solve problems of the underprivileged
 - **Technology and Skills** : Docker, MariaDB, Jenkins, Java, Spring, Git
+- 
 
 **WordMafia** – https://play.google.com/store/apps/details?id=com.kj.wordmafia 
 - A simple Android game app helps users play Mafia Game(liar game) offline. Individual project. Applied MVC pattern and Singleton pattern to the architecture.
